@@ -93,9 +93,9 @@ The goal of this project is to demonstrate **manual testing skills**,
 **Artem Ermolaev**  
 QA / Software Testing Student — Berlin, Germany  
 🎓 University of Europe for Applied Sciences  
-📧 [your.email@example.com]  
+📧 [ermo.artem@gmail.com]  
 🌐 [vilamourasurfing.netlify.app](https://vilamourasurfing.netlify.app)  
-🔗 [LinkedIn Profile](https://linkedin.com/in/your-link)  
+🔗 [LinkedIn Profile](https://linkedin.com/in/artem-ermolaev-508618360)  
 
 ---
 
